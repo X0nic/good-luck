@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Good::Luck::VERSION
   spec.authors       = ["Nathan Lee"]
   spec.email         = ["nathan@globalphobia.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Placeholder: A capistrano gem that wishes you good luck when you deploy on Friday / Weekends.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
